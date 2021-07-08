@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tuan14:jar">
+    <output-path>$PROJECT_DIR$/../../RunNow</output-path>
+    <root id="archive" name="Tuan14.jar">
+      <element id="module-output" name="Tuan14" />
+    </root>
+  </artifact>
+</component>
